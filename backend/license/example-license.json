@@ -1,0 +1,5 @@
+{
+  "customer": "Acme GmbH",
+  "features": ["workflows", "multi-lang", "ocr", "smtp"],
+  "expires_at": "2025-06-30T00:00:00Z"
+}
